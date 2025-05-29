@@ -173,11 +173,6 @@ WantedBy=multi-user.target
 
 ## Development
 
-### Running Tests
-```bash
-go test ./...
-```
-
 ### Contributing
 1. Fork the repository
 2. Create a feature branch
